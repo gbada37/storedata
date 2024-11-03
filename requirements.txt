@@ -6,4 +6,6 @@ scikit-learn
 xgboost
 matplotlib
 plotly
-
+statsmodels
+numpy
+scipy
