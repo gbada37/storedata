@@ -4,4 +4,6 @@ joblib
 Pillow
 scikit-learn
 xgboost
+matplotlib
 plotly
+
